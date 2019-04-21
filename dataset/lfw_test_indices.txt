@@ -1,0 +1,1725 @@
+5581	William_Rosenberg		1
+4647	Van_Hilley		1
+3588	Mohamed_Hammam		1
+3860	Dennis_Archer		1
+5542	Wendy_Kennedy		1
+811	Lucio_Gutierrez		1	2	3	4	5	6	7	8	9	10	11	12	13
+5037	Yuri_Malenchenko		1	2
+1889	Mayumi_Moriyama		1
+756	Luciano_Bovicelli		1
+2077	Roger_Lyons		1
+2628	Maggie_Cheung		1
+1083	Robert_Lee_Yates_Jr		1
+1638	Kurt_Russell		1	2
+5474	Brad_Smith		1
+2000	Nina_Pecari		1
+1909	Alanis_Morissette		1
+3152	David_Duke		1
+876	Oscar_DLeon		1
+1543	Juan_Pablo_Montoya		1	2	3	4	5	6	7	8
+5568	William_Jackson		1
+5300	Luis_Fonsi		1
+1194	Sue_Johnston		1
+2598	Nathan_Lane		1	2
+3769	Alfredo_di_Stefano		1
+3617	Woodrow_Stanley		1
+5352	Shinzo_Abe		1
+1570	Rick_Perry		1	2	3	4	5	6
+5304	Luis_Horna		1	2	3	4	5	6
+3109	Mark_Butcher		1
+105	Ben_Stein		1
+670	Gary_Winnick		1	2
+3742	Shanna_Zolman		1
+3582	Mitzi_Gaynor		1
+5526	Tom_Coughlin		1
+3197	Jose_Maria_Aznar		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23
+3488	Jane_Clayson		1
+1132	Giuseppe_Gibilisco		1	2	3	4
+4258	Margaret_Okayo		1
+1417	Fernando_Vargas		1	2	3	4
+2744	Steve_Alford		1
+2172	Francois_Pienaar		1
+1553	Paul_LeClerc		1
+750	Lou_Piniella		1	2	3
+1752	Carolina_Barco		1
+1925	Ivana_Trump		1
+4067	John_Elway		1
+5290	Henning_Scherf		1
+535	Mark_Schweiker		1	2
+1285	Douglas_Paal		1
+3006	Yasushi_Akashi		1
+1847	Tiago_Splitter		1
+1537	Juan_Carlos_Ortega		1
+3479	Hwang_Doo-yun		1
+2282	Julia_Tymoshenko		1	2	3
+1762	Carol_Moseley_Braun		1	2
+3561	Sourav_Ganguly		1	2	3	4	5
+169	Horst_Koehler		1	2	3
+5382	Jerry_Regier		1	2	3	4
+3722	Anderson_Varejao		1
+280	Ed_Rosenthal		1	2	3
+1096	Robert_Towne		1
+4910	Larry_Nichols		1
+5549	Jason_Statham		1
+3465	Harry_Schmidt		1	2	3	4
+4581	Nick_Price		1
+826	Dana_Vollmer		1
+1256	Wilfredo_Moreno		1
+5664	Tassos_Papadopoulos		1	2	3
+1839	Thomas_Stewart		1
+712	Tony_Stewart		1	2	3	4	5	6
+3716	Ana_Claudia_Talancon		1
+3784	Alison_Krauss		1
+4377	Patricia_Medina		1
+651	Gary_Bauer		1
+478	Nadine_Vinzens		1	2
+3183	Mary_Descenza		1
+1905	Meles_Zenawi		1
+3653	Donna_Walker		1
+1982	Nicolas_Massu		1
+3796	Randy_Jackson		1
+3658	Don_Flanagan		1
+3173	Kellie_Coffey		1
+2559	Riek_Blanjaar		1
+2447	Phillip_Fulmer		1
+4360	Darryl_Stingley		1
+3038	Serena_Williams		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32	33	34	35	36	37	38	39	40	41	42	43	44	45	46	47	48	49	50	51	52
+3202	Jose_Sarney		1	2	3
+1503	Paul_Cerjan		1
+931	Hugo_Chavez		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32	33	34	35	36	37	38	39	40	41	42	43	44	45	46	47	48	49	50	51	52	53	54	55	56	57	58	59	60	61	62	63	64	65	66	67	68	69	70	71
+1435	Blythe_Danner		1	2
+5009	Rick_Bland		1
+440	Gabriel_Hughes		1
+1585	Ken_Loach		1
+1648	Kyle_McLaren		1
+2873	Angela_Bassett		1	2	3	4	5	6
+948	Edmund_Stoiber		1	2	3	4	5	6	7	8	9	10	11	12	13
+3485	James_Collinson		1
+260	Michael_Taylor		1
+5191	Vince_Gill		1	2
+5479	Brandon_Hammond		1
+5076	Franz_Muentefering		1	2	3	4
+1897	Mehdi_Baala		1
+4854	John_Cruz		1
+4655	Monte_Kiffin		1
+4259	Margaret_Thatcher		1	2
+2069	Roger_Clemens		1	2
+1458	Antony_Leung		1	2	3	4
+423	Rose_Marie		1
+4970	Irene_Kahn		1
+2032	LeRoy_Millette_Jr		1
+4651	Monica_Vergara		1
+1378	Mary_Zorn		1
+5710	Marisol_Breton		1
+616	Ann_Morgan		1
+3404	Roman_Tam		1
+210	Brian_Weaver		1
+3241	Kieran_Prendergast		1	2
+2387	Didier_Defago		1
+1637	Emilio_Botin		1
+704	Tony_Clement		1
+4919	Charles_Mathews		1	2
+2188	Milt_Heflin		1
+275	Edwin_Edwards		1	2	3
+27	Jennie_Garth		1
+847	David_Nalbandian		1	2	3	4	5	6	7	8	9	10	11	12	13	14
+5630	John_Lawrence		1
+2602	Nawabzada_Nasrullah_Khan		1
+2793	Jean-Pierre_Raffarin		1	2	3	4	5	6	7
+2129	Paul_Brandt		1
+3888	David_McCullough		1
+3874	David_Glenn		1
+4452	Max_Baucus		1
+4024	Brawley_King		1
+5108	Eddie_Lewis		1
+1514	Paul_Hogan		1	2
+3992	Gerald_Riley		1
+786	Jon_Gruden		1	2	3	4	5	6	7
+2194	Mira_Sorvino		1
+55	Daniel_Rouse		1
+2985	Adam_Herbert		1
+312	Amr_Moussa		1
+4841	John_Baldacci		1
+132	Barbra_Streisand		1	2	3
+1264	William_Genego		1
+4741	Felipe_De_Borbon		1
+1124	Almeida_Baptista		1
+3983	Elgin_Baylor		1
+1683	Derek_Abney		1
+5483	Brandon_Larson		1
+4983	Isidro_Pastor		1
+3967	Jose_Carreras		1
+1218	Suzanne_Somers		1
+1193	Sue_Guevara		1
+3765	Bob_Newhart		1
+5251	Hamzah_Haz		1	2
+2465	Wallace_Capel		1
+4414	Karen_Lynn_Gorney		1
+189	Kobe_Bryant		1	2	3
+431	Fruit_Chan		1
+628	Anthony_Mazur		1
+5194	Vin_Diesel		1	2
+5350	Shingo_Suetsugu		1
+368	Laura_Romero		1
+3013	Alessandra_Cerna		1
+2710	Chan_Gailey		1	2	3
+1016	Martin_Gecht		1
+3675	Yusuf_Misbac		1
+3471	Gustavo_Terrazas		1
+5328	Anne_ONeil		1
+4606	Peter_OToole		1
+601	Sterling_Hitchcock		1
+1817	Andrew_Bunner		1	2
+2176	Franklin_Brown		1
+445	Galen_Rowell		1
+4214	Mike_Scioscia		1	2
+1361	Mikhail_Gorbachev		1	2
+2298	Julius_Barnes		1
+2967	Corinna_Harfouch		1
+787	Joseph_Fiennes		1
+3472	Ham_Pong-sil		1
+2570	Guangdong_Ou_Guangyuan		1
+1569	Richard_Regenhard		1
+5705	Mario_Lemieux		1
+1144	Jimmy_Carter		1	2	3	4	5	6	7	8	9
+4971	Irfan_Ahmed		1
+4050	Jennifer_Thompson		1	2
+114	Austin_Kearns		1
+306	Ambrose_Lee		1
+403	Tammy_Helm		1
+1855	Henry_Hilow		1
+3295	Steve_Blake		1
+3279	Columba_Bush		1
+4281	Ilan_Ramon		1	2	3
+1797	Steve_Spurrier		1	2
+3849	Ahmed_Ghazi		1
+2445	Phillipe_Comtois		1
+2588	Natasha_Lyonne		1
+3307	Steve_Lenard		1
+3268	Carlo_Azeglio_Ciampi		1
+2428	Pete_Aldridge		1
+3409	Ronald_Harwood		1
+5678	Paul_Vathis		1
+1215	Suzanne_Gaudet		1	2
+4694	Ricardo_Lopez_Murphy		1	2
+5085	Fred_Eckhard		1	2	3
+5263	Andy_Graves		1
+162	Holly_Robinson_Peete		1
+3138	David_Brinkley		1
+5551	Jason_White		1
+5555	Javier_Saviola		1
+4508	Cathy_Cunningham		1
+3350	Chris_Byrd		1	2
+5179	Phil_Mickelson		1	2
+1152	Jimmy_Szymanski		1
+5427	Ray_Young		1
+2166	Francis_George		1	2
+5196	Virgina_Ruano_Pascal		1
+2664	Michael_Chiklis		1	2	3	4	5
+1003	Martha_Sahagun_de_Fox		1
+2482	Warren_Granados		1
+5169	Norman_Mineta		1
+3952	Joseph_Ganim		1
+1053	Penny_Lancaster		1
+2490	Wendell_Bryant		1
+3966	Jose_Carlo_Fernandez		1
+5058	Frank_Hsieh		1
+4084	Ted_Costa		1
+2378	Dick_Bennett		1
+4418	Karin_Pilsaeter		1
+2310	Eunice_Barber		1	2
+3301	Steve_Cutler		1
+2120	Paula_Radcliffe		1	2	3	4	5	6
+5335	Alex_Cabrera		1
+287	Eileen_Spina		1
+3131	Mark_Philippoussis		1	2	3	4	5	6	7	8	9	10	11
+2297	Julio_Toro		1
+4742	Courtney_Love		1	2
+3627	Grady_Little		1
+4881	Carla_Gugino		1
+2468	Walter_Mondale		1	2	3	4	5	6	7	8	9	10
+2065	Roel_Campos		1
+5736	Roy_Williams		1	2	3	4
+938	Hunter_Kemper		1
+1335	Tom_Moss		1
+4973	Irina_Lobacheva		1
+870	Orrin_Hatch		1	2
+256	Michael_Shelby		1
+2038	Leslie_Caldwell		1	2	3
+1233	Reginald_Hudlin		1
+336	James_May		1
+1887	Jason_Petty		1
+3277	Claire_Danes		1	2	3
+4530	Chip_Ganassi		1
+270	Edward_Lu		1	2	3	4	5	6
+1057	Perri_Shaw		1
+2853	Joan_Laporta		1	2	3	4	5	6	7	8	9
+5628	John_Kerr		1
+525	Ajit_Agarkar		1
+3346	Christy_Ferer		1
+2621	Madeleine_Albright		1	2	3
+5374	Jerry_Colangelo		1
+3708	Zydrunas_Ilgauskas		1
+3500	Joey_Harrington		1
+1246	Rhett_Warrener		1
+1660	Lara_Logan		1
+1344	Hatsui_Hasuike		1
+1804	Stockard_Channing		1	2	3
+1810	Andrei_Konchalovsky		1
+2895	Tirunesh_Dibaba		1
+5701	Mario_Dumont		1	2
+5221	Joe_Friedberg		1
+2819	James_Carville		1
+1715	Dave_Potter		1
+3426	Sylvester_Stallone		1	2	3	4	5	6	7	8	9
+4362	Daryl_Hannah		1	2
+5081	Frederick_Madden		1
+5629	John_Kerry		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17
+2965	Coretta_Scott_King		1	2	3
+4450	Mauro_Viza		1
+1479	Bertie_Ahern		1	2	3	4	5
+2068	Rogerio_Romero		1	2
+4564	Ben_Lee		1
+3110	Mark_Cuban		1	2
+4857	Leigh_Winchell		1
+3922	Kenneth_Carlsen		1
+1336	Tom_OBrien		1
+1913	Alan_Dreher		1
+1493	Bilal_Erdogan		1
+4803	John_Stockton		1	2	3	4	5
+5366	Jeremy_Greenstock		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24
+4834	Colleen_OClair		1
+1876	Jason_Bentley		1
+5417	Ray_Halbritter		1
+5275	Heidi_Fleiss		1	2	3	4
+5358	Shoshannah_Stern		1
+5064	Frank_Schmoekel		1
+282	Ed_Sullivan		1
+2141	Prince_Felipe		1
+4580	Nick_Nolte		1	2	3	4	5
+1942	Jack_LaLanne		1
+1295	Drew_Bledsoe		1
+131	Barbora_Strycova		1
+408	Tanya_Lindenmuth		1
+1943	Veronica_Lake		1
+5644	Alberto_Fujimori		1	2
+3799	Rand_Beers		1
+218	Brock_Berlin		1
+5735	Roy_Romanow		1
+3595	Mohammad_Mustapha_Miro		1
+1829	Thomas_Gottschalk		1
+5078	Freda_Black		1
+3015	Alexander_Downer		1	2	3	4
+806	Lee_Tae-sik		1	2
+2547	Dan_Prinster		1
+5696	Peggy_McGuinness		1
+2723	Paul_Murphy		1
+3525	Scott_Blum		1
+3645	Greg_Hodge		1
+3104	Markus_Beyer		1
+1007	Martina_Hingis		1	2	3
+5278	Heinz_Feldmann		1	2	3
+3061	Jessica_Capshaw		1
+1428	Bill_Walton		1
+4059	John_Dallager		1
+4888	Carlos_Arroyo		1
+1419	Festus_Mogae		1
+969	Michelle_Lecky		1
+2656	Michael_Bouchard		1
+1219	Suzanne_Torrance		1
+4	Aaron_Pena		1
+2390	Carlos_Juarez		1
+554	Joe_Plumeri		1
+2071	Roger_Corbett		1
+1209	Susan_Walvius		1
+3358	Chris_Dodd		1
+1911	Alan_Ball		1	2
+2338	Thomas_Enqvist		1
+4878	Cari_Davis		1
+30	Jennifer_Connelly		1	2	3	4
+2826	LeAnn_Rimes		1	2
+2785	Jean-David_Levitte		1	2	3	4	5	6	7	8	9	10
+261	Michael_Wayne		1
+4384	Patrick_Dennehy		1
+4363	Daryl_Jones		1
+2697	Cesar_Maia		1	2
+925	Hugh_Campbell		1
+4075	John_Geoghan		1
+1138	Glen_Clark		1
+1189	Sean_OKeefe		1	2	3	4	5
+1591	Kevin_Crane		1
+204	Kristin_Scott		1
+1794	Steve_Redgrave		1
+33	Jennifer_Granholm		1
+3249	Arthur_Martinez		1
+4632	Hitoshi_Tanaka		1
+959	Edward_Burns		1
+358	Charlotte_Casiraghi		1
+2616	Lynne_Thigpen		1
+4940	Emmit_Smith		1	2
+1066	Peter_Camejo		1
+1901	Mekhi_Phifer		1
+2397	Carlos_Paternina		1
+2186	Milton_Berle		1
+1750	Carl_Reiner		1	2
+5268	Andy_Madikians		1
+3748	Bob_Dole		1	2	3
+1284	Douglas_Meester		1
+4301	Naomi_Hayashi		1
+873	Oscar_Bolanos		1
+936	Hung_Wan-ting		1
+1914	Alan_Greenspan		1	2	3	4	5
+4022	Gina_Centrello		1
+4866	Lennart_Johansson		1
+4092	Teresa_Heinz_Kerry		1
+3883	David_Hyde_Pierce		1	2	3	4
+2544	Dan_LaCoutre		1
+4040	Brian_Cashman		1
+2126	Pauline_Phillips		1
+5166	Normand_Legault		1
+4492	Manuela_Montebrun		1
+447	Garry_Alejano		1
+5472	Brad_Pitt		1
+1668	George_P_Bush		1	2
+5484	Brandon_Lloyd		1
+1936	Jackie_Dennis		1
+1122	Ally_Sheedy		1
+4008	Gholamreza_Aghazadeh		1
+4870	Len_Jenoff		1	2
+2315	Eva_Amurri		1
+1195	Sue_Slavec		1
+3087	Bustam_A_Zedan_Aljanabi		1
+3352	Chris_Claiborne		1
+2102	John_Nimmo		1
+5420	Ray_Lucas		1
+4815	John_Wayne		1
+5188	Pierre_Pettigrew		1	2	3
+3182	Mary_Catherine_Correll		1
+4045	Jennifer_Murray		1
+1423	Bill_Self		1
+46	Daniel_Day-Lewis		1	2	3
+3670	Dorothy_Lamour		1
+1008	Martina_McBride		1	2	3	4	5
+3382	Billy_Graham		1	2
+4181	Liu_Ye		1
+1645	Kweisi_Mfume		1
+4611	Hestrie_Cloette		1
+4125	Michael_Jasny		1
+1617	Ellen_Engleman		1	2
+1163	Jim_Edmonds		1	2
+2033	Lesia_Burlak		1
+1165	Jim_Flaherty		1
+1732	Chuck_Yeager		1	2
+926	Hugh_Carey		1
+5162	Nora_Bendijo		1	2
+5032	Young_Kim		1
+4349	Dariusz_Michalczewski		1
+3167	Keith_Rodriguez		1
+3892	David_Montoya		1
+5022	Yolanda_King		1
+3764	Bob_Menendez		1
+359	Charlotte_Chambers		1
+4721	Fabrice_Santoro		1	2	3
+80	Marc_Anthony		1
+4723	Faisal_Iqbal		1
+2132	Princess_Elisabeth		1	2
+3502	Sandra_Shamas		1
+1207	Susan_Collins		1	2
+2804	Jake_Plummer		1
+4172	Lisa_Leslie		1
+5600	Jade_Jagger		1
+1663	George_McCloud		1
+2674	Russell_Crowe		1	2
+882	Larry_Tanenbaum		1
+1861	Herb_Brooks		1
+1406	Felix_Mantilla		1	2
+3517	Sarah_Weddington		1
+4617	Hilary_Duff		1	2	3
+5284	Helen_Darling		1
+2328	Theo_Epstein		1	2
+768	Sammy_Sosa		1	2
+857	David_Sousa		1
+852	David_Rivkin_Jr		1
+3809	Martin_Howard		1
+4690	Michael_Arif		1
+1635	Emile_Lahoud		1	2
+4052	Jenny_Romero		1
+4263	Mariam_Ali_Hassan		1
+2678	Ruth_Bader_Ginsburg		1
+3174	Kellie_Greene		1
+2923	Monica_Seles		1	2	3	4	5	6
+4900	Larry_Ellison		1	2	3
+3432	Tab_Baldwin		1
+3111	Mark_Dacey		1	2
+4250	Robert_Flodquist		1
+1400	Matt_Doherty		1	2	3
+4041	Brian_Clemens		1
+952	Eduardo_Fischer		1
+5528	Tom_Craddick		1	2	3	4
+387	Lawrence_Vito		1
+920	Eric_Staal		1
+191	Koichiro_Matsuura		1
+4833	Colleen_Jones		1
+993	Miguel_Jimenez		1
+1533	Juan_Antonio_Samaranch		1
+1147	Jimmy_Iovine		1
+3938	Kim_Jin-sun		1	2
+3921	Kenneth_Brill		1
+589	Stephen_Frears		1
+4311	Natalia_Verbeke		1
+2212	Spike_Lee		1
+2684	Ryan_Drese		1
+3673	Dorthy_Moxley		1	2
+697	Tonino_Guerra		1
+173	Howard_Schultz		1	2
+3319	George_Galloway		1	2	3	4
+5047	Rob_Ramsay		1
+2609	Luther_Htu		1
+1851	Tiffany_Limos		1
+2008	Dimitri_Perricos		1
+818	Dale_Bosworth		1
+1992	Nigel_Redden		1
+2309	Eugene_Teslovic		1
+2181	Frank_Bell		1
+4505	Catherine_Zeta-Jones		1	2	3	4	5	6	7	8	9	10	11
+1393	Matthew_Perry		1	2	3	4	5	6	7
+3610	Winston_Churchill		1
+5546	Yekaterina_Guseva		1
+549	Joe_Mendes		1
+3317	George_Clooney		1	2	3	4	5	6	7	8	9
+2824	Leandro_Andrade		1
+3405	Romario_Farias		1
+2202	Mitar_Rasevic		1
+622	Anthony_Fauci		1	2
+3325	George_Lucas		1
+2861	Jodie_Henry		1
+4697	Ricardo_Monasterio		1	2
+2984	Adam_Freier		1
+2634	Turner_Gill		1
+3034	Sedigh_Barmak		1
+4730	Fatmir_Limaj		1
+2519	Ian_McKellen		1	2	3
+2136	Princess_Stephanie		1
+4471	Julianne_Moore		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19
+5672	Tatyana_Tomashova		1
+90	Ali_Bin_Hussein		1
+5404	Jeff_Bridges		1
+2178	Franko_Simatovic		1	2
+4542	Christian_Gimenez		1
+5261	Andy_Dick		1
+5477	Brandon_Boyd		1
+3544	Sivan_Klein		1
+487	Nancy_Powell		1
+853	David_Scott_Morris		1
+4346	Darin_Erstad		1
+4071	John_Fox		1
+375	Laurent_Jalabert		1	2
+3527	Scott_Dickson		1
+3379	Billy_Donovan		1
+3864	Dennis_Johnson		1
+2525	Ibrahim_Al-Marashi		1
+5534	Tom_Cruise		1	2	3	4	5	6	7	8	9	10
+3046	Serge_Melac		1
+1946	Vicente_Fox		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32
+3130	Mark_Mulder		1
+2086	Rohinton_Mistry		1
+1206	Surya_Bahadur_Thapa		1
+4283	Ilie_Nastase		1
+5228	Gus_Van_Sant		1	2	3
+137	Owen_Wilson		1	2
+4137	Michael_Linscott		1
+2937	Melina_Kanakaredes		1
+2573	Guido_Westerwelle		1	2
+529	Akbar_Hashemi_Rafsanjani		1	2	3
+2418	Katie_Smith		1
+396	Talisa_Bratt		1
+3491	Jay_Leno		1	2	3
+1964	Steny_Hoyer		1
+3095	Calvin_Harrison		1
+2618	Lynn_Redgrave		1	2	3
+1384	Masja_Juel		1
+1266	John_Wolf		1	2
+5413	Raymond_Odierno		1	2
+650	Gary_Barnett		1
+2726	Paul_Otellini		1
+2295	Julio_Iglesias_Jr		1	2
+3737	Shane_Mosley		1	2
+5345	Alex_Wallau		1
+4313	Natalie_Cole		1	2	3
+4510	Catriona_Le_May_Doan		1
+4685	Mian_Khursheed_Mehmood_Kasuri		1	2	3	4
+3234	Khaled_Sawalhi		1
+139	Ozzie_Smith		1
+4444	Maureen_Kanka		1
+1561	Priscilla_Owen		1	2
+915	Eric_Rosser		1	2
+4186	Mike_Brey		1	2
+4140	Michael_Michele		1
+2842	Jim_Zorn		1
+3844	Agnes_Bruckner		1
+5104	Earl_Scruggs		1
+998	Martha_Beatriz_Roque		1	2
+4422	Karol_Kucera		1
+779	Sandra_Ceccarelli		1
+4946	Enrik_Vendt		1
+2529	Ibrahim_Rugova		1
+146	Paek_Nam_Sun		1
+2939	Michael_Douglas		1	2	3	4	5	6
+3051	Jesper_Parnevik		1
+2127	Paulo_Cesar_Pinheiro		1	2
+1977	Stephen_Crampton		1
+1159	Jim_Calhoun		1
+5342	Alex_Penelas		1	2
+226	Bruce_Lunsford		1
+429	Roy_Chaderton		1
+4030	Brenda_van_Dam		1
+2099	John_Moxley		1
+3805	Rashid_Qureshi		1
+3898	Armando_Avila_Panchame		1
+5271	Andy_Roddick		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15
+4268	Marianne_Stanley		1
+5681	Paul_Wellstone		1	2	3
+4083	Ted_Christopher		1
+3073	Bonnie_Fuller		1
+2506	Patty_Sheehan		1
+1247	Wendy_Selig		1
+5012	Rick_Caruso		1
+3697	Zhong_Nanshan		1
+1468	Ben_Wallace		1
+93	Andrea_Kiser		1
+5716	Brian_Grazier		1
+3793	Randy_Brown		1
+5622	Augusto_Pinochet		1	2
+3025	Alexandra_Vodjanikova		1	2
+2162	Sally_Kirkland		1	2	3	4
+4701	Richard_Barry		1
+3456	Harald_Ringstorff		1
+4486	Malcolm_Wild		1
+3746	Bob_Crippen		1
+2395	Carlos_Moya		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19
+2507	Pat_Burns		1	2
+4874	Candie_Kung		1	2	3	4
+1262	William_Donaldson		1	2	3	4	5	6	7
+3904	Arnaud_Lagardere		1
+4279	Igor_Trunov		1
+3306	Steve_Lavin		1	2	3	4	5	6
+3320	George_Gregan		1
+3158	Keith_Bishop_Jr		1
+2389	Carlos_Iturgaitz		1
+2372	Diane_Green		1	2
+5704	Mario_Kreutzberger		1	2
+5671	Tatsuya_Fuji		1
+1399	Matt_Dillon		1	2	3
+414	Ron_Lantz		1
+2701	Chanda_Rubin		1	2	3	4	5
+692	Tom_Tunney		1
+5434	Gong_Ruina		1
+411	Ron_Gonzales		1
+5748	Rupert_Grint		1	2	3
+5206	Vojislav_Kostunica		1	2	3	4	5	6	7
+2900	Todd_MacCulloch		1
+3783	Alisha_Richman		1
+1910	Alanna_Ubach		1
+5659	Alejandro_Gonzalez_Inarritu		1
+2583	Gunter_Pleuger		1	2	3	4	5	6	7
+5294	Luc_Montagnier		1
+4182	Liv_Tyler		1
+714	Tori_Amos		1
+4085	Ted_Maher		1	2
+4122	Michael_Haneke		1
+1288	Doug_Duncan		1	2
+4144	Michael_Olowokandi		1
+979	Mickey_Gilley		1
+1609	Lois_Smart		1
+2903	Todd_Reid		1
+2211	Spike_Jonze		1
+522	Aitor_Gonzalez		1	2
+631	Justine_Henin		1	2	3
+3878	David_Heyman		1	2
+4828	Colin_Phillips		1
+3530	Scott_Hamilton		1
+851	David_Przybyszewski		1
+5605	Ashton_Kutcher		1	2	3
+2769	Queen_Elizabeth_II		1	2	3	4	5	6	7	8	9	10	11	12	13
+5384	Jerry_Seinfeld		1
+5277	Heinrich_Wolfgang		1
+5200	Vladimir_Golovlyov		1
+5347	Shigeru_Ishiba		1
+3172	Keizo_Yamada		1
+3800	Rand_Miller		1
+4626	Hiroyuki_Yoshino		1
+3420	Ronnie_Musgrove		1
+2254	Marion_Barry		1
+4715	Richard_Hamilton		1
+300	Amanda_Bynes		1	2	3	4
+5506	Donna_Barrera		1
+1128	Gisele_Bundchen		1	2
+612	Steven_Van_Zandt		1
+3794	Randy_Dryer		1
+1952	Victor_Hanescu		1
+1136	Glenn_Rivers		1
+3209	Derek_Bond		1
+5612	Astrid_Betancourt		1
+4375	Patricia_Heaton		1	2
+3978	Elena_Bovina		1	2	3
+3529	Scott_Gorelick		1
+5666	Tatiana_Kennedy_Schlossberg		1
+5223	Joe_Gatti		1	2
+2011	Dino_de_Laurentis		1	2
+3858	Denis_Fassou-Nguesso		1
+5010	Rick_Bragg		1
+2205	Mitchell_Garabedian		1
+2151	Sadam_Hassan		1
+2955	Omar_Vizquel		1
+2945	Mitoji_Yabunaka		1	2
+2066	Rogelio_Montemayor		1
+4410	Kara_Lynn_Joyce		1
+652	Gary_Bergeron		1	2
+1790	Steve_Park		1	2
+729	Barzan_al-Tikriti		1
+5616	Atiabet_Ijan_Amabel		1
+2613	Lyle_Vanclief		1	2
+500	Dean_Sheremet		1
+4652	Monique_Ferreira		1
+4995	Richard_Sterner		1
+3942	Kim_Weeks		1
+3074	Bonnie_Hunt		1
+2591	Nate_Huffman		1
+3079	Boris_Jordan		1
+5004	Ricky_Martin		1	2
+4588	Peter_Gilmour		1
+3721	Ana_Sebastiao		1
+1277	Jonathan_Tiomkin		1
+716	Toshihiko_Fukui		1	2	3
+2756	Otto_Reich		1
+4462	Judy_Spreckels		1
+5737	Ruano_Pascual		1
+5313	Anja_Paerson		1
+4404	Ernie_Stewart		1
+5533	Tomas_Enge		1
+1928	Ivan_Shvedoff		1
+4926	Charles_Tannok		1
+4798	John_Sidgmore		1
+1368	Mikulas_Dzurinda		1	2
+3323	George_Karl		1	2
+4517	Chen_Tsai-chin		1
+2215	Stacey_Yamaguchi		1
+5349	Shingo_Katayama		1
+2510	Pat_Riley		1
+436	Gabrielle_Rose		1
+153	Paris_Hilton		1	2
+3539	Simon_Cowell		1	2
+671	Gaston_Gaudio		1
+5269	Andy_North		1
+1940	Jack_Grubman		1	2
+5201	Vladimir_Meciar		1
+2493	Patrick_Rafter		1
+1697	Eric_Vigouroux		1
+2075	Roger_Grimes		1
+363	Charmaine_Crooks		1
+5653	Aldo_Paredes		1	2
+5379	Jerry_McEntee		1
+3514	Sarah_Jessica_Parker		1	2	3	4	5	6
+4025	Brendan_Fraser		1
+5240	Halle_Berry		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16
+1338	Hasan_Wirayuda		1
+3546	Skip_Prosser		1
+1179	Scott_Sullivan		1	2
+3298	Steve_Coogan		1
+3553	Solomon_Passy		1
+778	Sandra_Bullock		1	2	3	4
+3088	Butch_Davis		1	2
+5171	Phil_Bredesen		1
+295	Al_Gore		1	2	3	4	5	6	7	8
+3641	Gregor_Gysi		1
+2638	Tyra_Banks		1	2
+4163	Lino_Oviedo		1	2	3
+3387	Bill_Belichick		1	2
+2292	Julio_Cesar_Chavez		1
+3719	Ana_Palacio		1	2	3	4	5	6	7	8
+1332	Tom_Lantos		1
+3960	Joseph_Salgado		1
+1020	James_Wattana		1
+2860	Jodie_Foster		1	2	3
+2053	Lili_Taylor		1	2
+838	Bryan_Cooley		1
+353	Charlie_Hunnam		1
+1954	Vidar_Helgesen		1	2
+402	Tamika_Catchings		1
+2351	OJ_Simpson		1	2
+2759	Priscilla_Presley		1	2
+2146	Prince_Willem-Alexander		1	2	3
+3374	Chris_Terry		1
+758	Lucia_Kenny_Anthony		1
+4837	John_Abizaid		1	2	3	4	5	6	7	8	9
+5093	Dusty_Baker		1
+3229	Kevin_Sorbo		1
+2682	Ruth_Pearce		1
+2449	Christian_Von_Wernich		1
+4167	Lionel_Chalmers		1
+99	Ariel_Sharon		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32	33	34	35	36	37	38	39	40	41	42	43	44	45	46	47	48	49	50	51	52	53	54	55	56	57	58	59	60	61	62	63	64	65	66	67	68	69	70	71	72	73	74	75	76	77
+3118	Mark_Hanson		1
+4116	Michael_Fitzgerald		1
+4074	John_Garamendi		1	2
+1441	Bobby_Robson		1	2
+378	Lauren_Killian		1	2
+5419	Ray_Liotta		1
+2474	Wang_Hailan		1
+822	Damarius_Bilbo		1
+4773	Tim_Blake_Nelson		1
+5435	Gonzalo_Barrientos		1
+3060	Jessica_Brungo		1
+4734	Fayssal_Mekdad		1	2	3	4
+2882	Angel_Maza		1
+3698	Zhu_Rongji		1	2	3	4	5	6	7	8	9
+458	Bill_Kong		1
+5640	John_Marburger		1
+1765	Carrie-Anne_Moss		1	2	3	4	5
+1483	Beth_Jones		1	2
+4938	Emma_Thompson		1	2	3
+5060	Frank_Lautenberg		1	2
+935	Humberto_Espinoza		1
+4516	Chen_Shui-bian		1	2	3	4	5
+1063	Peter_Albertsen		1
+4261	Margie_Puente		1
+1709	Dave_Lewis		1
+4662	Moshe_Katsav		1	2	3	4
+53	Daniel_Pearl		1
+1358	Mike_Tyson		1	2	3	4
+371	Laurel_Clark		1
+4891	Carlos_Beltran		1
+5225	Joe_Leonard		1
+2929	Maritza_Macias_Furano		1
+4800	John_Spencer		1	2
+155	Park_Jung_Sung		1
+556	Joe_Torre		1	2	3	4
+3910	Kelly_Clarkson		1	2	3
+2210	Spike_Helmick		1
+711	Tony_Shalhoub		1	2	3	4
+2695	Cemil_Cicek		1
+1043	Janet_Ecker		1
+4246	Robert_Duvall		1	2	3	4	5	6	7	8
+3177	Maryn_McKenna		1
+538	Mark_Stuart		1
+1058	Perry_Compton		1
+526	AJ_Cook		1
+2520	Ian_Moran		1
+1071	Peter_Fisher		1
+699	Toni_Jennings		1
+2121	Paula_Zahn		1	2
+158	Parthiv_Patel		1
+2778	Raaf_Schefter		1
+4253	Marc_Racicot		1
+3547	Slobodan_Milosevic		1	2	3	4
+5281	Helene_Eksterowicz		1
+4793	John_Rowland		1	2
+536	Mark_Shapiro		1
+349	James_Sensenbrenner		1
+1832	Thomas_Klestil		1
+5408	Raul_Ibanez		1
+900	Enrique_Medina_Gomez		1
+560	Johnnie_Lynn		1
+1578	Rupert_Murdoch		1	2
+5409	Raul_Mondesi		1
+1547	Juan_Valencia_Osorio		1	2
+2109	John_Prescott		1
+1407	Felix_Sanchez		1
+229	Sharon_Robinson		1
+5680	Paul_Wals		1
+2817	James_Caan		1	2	3
+1786	Richard_Perle		1
+230	Sharon_Stone		1	2	3	4	5
+4054	Jen_Bice		1
+1243	Retief_Goosen		1
+5295	Ludivine_Sagnier		1	2	3	4	5
+186	Kjell_Magne_Bondevik		1	2	3
+1679	Geovani_Lapentti		1
+1272	Jonathan_Fine		1
+473	Muwafak_al-Ani		1
+3142	David_Carradine		1
+2076	Roger_King		1
+2503	Patti_Smith		1
+5725	Brian_Meadors		1
+1146	Jimmy_Gurule		1
+533	Mark_Sacco		1
+5369	Jeri_Ryan		1
+2871	AnFernce_Negron		1
+2658	Michael_Brandon		1
+1944	Viara_Vike-Freiberga		1
+4136	Michael_Lechner		1
+875	Oscar_de_la_Renta		1
+5504	Donald_Trump		1
+1153	Jim_Abbott		1
+4558	Ben_Cohen		1
+3233	Khader_Rashid_Rahim		1
+4309	Natalia_Dmitrieva		1
+4713	Richard_Greenberg		1
+456	Bill_King		1
+2629	Maggie_Smith		1	2
+1125	Alonzo_Mourning		1
+2174	Franco_Dragone		1	2
+4225	Roberto_Canessa		1
+3973	Ekke_Hard_Forberg		1
+2325	Thanongsak_Tuvinan		1
+2015	Dionne_Warwick		1
+687	Tom_Rouen		1
+2851	Joan_Dangerfield		1
+3081	Boris_Yeltsin		1	2
+3383	Billy_Joel		1
+4222	Roberta_Combs		1
+643	Kalid_Kaid		1
+791	Julian_Fantino		1
+413	Ron_Kirk		1
+141	Pablo_Khulental		1
+3735	Shane_Hmiel		1
+5178	Phil_McGraw		1
+4749	Craig_OClair		1
+2158	Sahim_Alwan		1
+872	Osama_bin_Laden		1	2	3	4
+3215	Derrick_Battie		1
+4717	Ewan_McGregor		1
+3464	Harry_Kalas		1	2
+4953	Flavia_Pennetta		1
+2578	Guillermo_Coria		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30
+3771	Alfredo_Pena		1
+503	Debra_Brown		1	2
+2270	Claudio_Abbado		1
+3228	Kevin_Satterfield		1
+4759	Cruz_Bustamante		1	2	3	4	5
+4935	Emmanuel_Filiberto		1
+4193	Mike_Eskew		1
+1748	Carl_Levin		1
+421	Rosemarie_Stack		1	2
+2006	Dieter_Zetsche		1
+3392	Bill_Carmody		1
+2055	Lily_Tomlin		1	2
+619	Anthony_Carter		1
+3161	Keith_Fotta		1
+668	Gary_Stevens		1
+2968	Corinne_Coman		1	2
+4775	Tim_Conway		1	2	3
+2260	Clare_Latimer		1
+3194	Jose_Luis_Rodriguez_Zapatero		1
+4849	John_Burkett		1
+5143	Jim_Ryan		1
+3288	David_Myers		1	2
+2788	Jean-Luc_Bideau		1
+4941	Emmy_Rossum		1
+609	Steven_Seagal		1	2
+1482	Beth_Blough		1
+4790	John_Robbins		1
+700	Tono_Suratman		1
+759	Lucie_Lapovsky		1
+761	Lucio_Cecchinello		1
+4914	Charles_Grassley		1	2
+1064	Peter_Arnett		1	2	3
+2149	Sachiko_Yamada		1	2	3	4
+291	Alyson_Hannigan		1
+4314	Natalie_Coughlin		1	2	3	4	5	6
+5044	Rob_Moore		1
+1879	Jason_Clermont		1
+2209	Mitch_Kupchak		1
+3204	Jose_Theodore		1	2
+5645	Alberto_Gonzales		1
+1040	Janette_Husarova		1
+4772	Tim_Allen		1	2	3	4
+4103	Terry_Bradshaw		1
+2655	Vadim_Strogalev		1
+3497	Jia_Qinglin		1	2
+5730	Brian_Schneider		1
+3403	Roman_Polanski		1	2	3	4	5	6
+1297	Duane_Barber		1
+661	Gary_Gitnick		1
+5670	Tatjana_Gsell		1
+5580	William_Rehnquist		1	2
+2612	Lyle_Lovett		1
+1510	Paul_Gannon		1
+2487	Wayne_Gretzky		1	2	3	4
+1341	Hassanal_Bolkiah		1
+4386	Patrick_Ewing		1	2
+2796	Jeanette_Gray		1
+5691	Pedro_Malan		1	2	3	4	5
+3141	David_Caraway		1	2
+444	Gala_Leon_Garcia		1
+3919	Kenneth_Bowersox		1	2	3
+5100	Dyana_Calub		1
+2429	Pete_Beaudrault		1
+4629	Hisham_Halawi		1
+980	Mickey_Loomis		1
+2393	Carlos_Menem		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21
+3511	Saparmurat_Niyazov		1	2
+2500	Patti_Balgojevich		1
+1558	Phillip_Seymor_Hoffmann		1
+1867	Herman_Edwards		1
+1036	Jan-Michael_Gambill		1	2	3
+5065	Frank_Shea		1
+5280	Helena_Schneider		1
+3600	Will_Ferrell		1
+404	Tammy_Lynn_Michaels		1	2
+2913	Mohammed_Salmane		1
+3160	Keith_Brown		1
+4287	Imelda_Marcos		1
+3067	Jiang_Zemin		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20
+437	Gabrielle_Union		1
+2051	Liliana_Cavani		1
+5310	Luke_Ridnour		1
+4568	Nestor_Santillan		1
+4426	Kate_Burton		1
+2064	Rod_Thorn		1
+4049	Jennifer_Rodriguez		1	2
+5562	Jaymon_Crabb		1
+2113	Pat_Summitt		1
+2825	Leandro_Garcia		1
+4729	Fatma_Kusibeh		1
+1087	Robert_Mueller		1	2	3	4	5
+4485	Malcolm_Jamal_Warner		1
+1870	Hermogenes_Ebdane_Jr		1
+4217	Mike_Smith		1
+2283	Julien_Boutter		1
+285	Eglis_Yaima_Cruz		1
+2043	Leticia_Dolera		1
+4416	Karen_Pereiras		1
+1245	Rey_Sanchez		1
+115	Avril_Lavigne		1
+5652	Albrecht_Mentz		1	2
+3098	Camilla_Parker_Bowles		1	2
+506	Debra_Shank		1
+4792	John_Rowe		1
+172	Howard_Ross		1
+3478	Huang_Suey-Sheng		1
+4305	Narendra_Modi		1
+5265	Andy_Griggs		1
+4969	Ira_Einhorn		1
+1816	Andrew_Bernard		1
+3661	Don_King		1
+4086	Ted_Nolan		1
+3862	Dennis_Franchione		1
+2454	Christine_Baumgartner		1	2	3	4	5
+4284	Imad_Khadduri		1
+1593	Kevin_Gil		1
+4027	Brendan_Hansen		1	2
+1204	Surakait_Sathirathai		1	2
+302	Amanda_Marsh		1
+2063	Rod_Stewart		1	2	3
+5053	Rodrigo_Borja		1	2
+1920	Alan_Trammell		1
+3632	Grant_Rossenmeyer		1
+4298	Nan_Wang		1	2	3	4
+4415	Karen_Mok		1	2
+4209	Mike_Myers		1	2	3	4	5	6	7
+1155	Jim_Anderson		1
+780	Johnson_Panjaitan		1	2
+5446	Gore_Verbinski		1
+2515	Ian_Campbell		1
+743	Lori_Berenson		1
+2305	Esther_Macklin		1
+1250	Werner_Schlager		1
+1918	Alan_Stonecipher		1
+3001	Yao_Ming		1	2	3	4	5	6	7	8
+454	Bill_Herrion		1
+5535	Tom_Osborne		1
+2692	Celine_Dion		1	2	3	4	5	6	7	8
+5655	Alec_Baldwin		1	2	3	4
+5706	Mario_Lobo_Zagallo		1
+4239	Robert_Bonner		1	2	3
+5734	Roy_Rogers		1
+2105	John_Paul_II		1	2	3	4	5	6	7	8	9	10	11
+2527	Ibrahim_Hilal		1
+1424	Bill_Simon		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15
+453	Bill_Guerin		1
+817	Dalai_Lama		1	2
+4658	Morgan_Freeman		1	2
+2182	Frank_Cassell		1	2	3
+3654	Donnie_Brennan		1
+1667	George_Plimpton		1
+3655	Donny_Osmond		1
+3731	Se_Hyuk_Joo		1
+4254	Marc_Shaiman		1
+585	Rahul_Dravid		1
+2361	Olivier_Boulay		1
+1884	Jason_Kidd		1	2	3	4	5	6	7	8	9	10
+3602	Will_Self		1
+3262	Ashley_Olsen		1
+528	Akbar_Al_Baker		1
+3348	Chris_Andrews		1
+3092	Caio_Blat		1
+3845	Ahmad_Jbarah		1
+1888	Jason_Priestley		1
+3181	Mary_Carey		1	2	3	4
+3633	Gray_Davis		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26
+5445	Gordon_McDonald		1
+4583	Nick_Reilly		1
+561	Johnny_Benson		1
+2250	Marina_Canetti		1
+4534	Chloe_Sevigny		1
+4174	Lisa_Marie_Presley		1	2	3	4
+5023	Yoon_Jeong_Cho		1
+4630	Hitomi_Soga		1	2	3	4	5
+922	Huan_Chung_Yi		1
+891	Laura_Bush		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32	33	34	35	36	37	38	39	40	41
+3180	Mary_Bono		1
+3614	Wolfgang_Schneiderhan		1
+3310	Geoff_Dixon		1
+415	Ron_Zook		1
+1548	Judd_Davies		1
+432	Fujio_Cho		1	2	3	4	5	6
+2300	Juljia_Vysotskij		1
+679	Gene_Robinson		1	2	3	4	5
+5643	Alberto_Acosta		1
+2617	Lynn_Abraham		1	2
+5636	John_Mabry		1
+5142	Jim_Piper		1
+683	Gen_Meredith		1
+3753	Bob_Graham		1	2	3	4	5	6
+2966	Corey_Maggette		1
+5707	Mario_Puzo		1
+3711	Amy_Smart		1
+4472	Julian_Battle		1
+5118	James_Cunningham		1	2	3
+2231	Stefan_Holm		1
+5051	Rodney_Rempt		1
+1259	William_Burns		1	2
+3077	Boris_Berezovsky		1	2
+1906	Akmal_Taher		1
+4703	Richard_Butler		1	2
+3738	Shane_Phillips		1
+2666	Michael_Dell		1
+4500	Catherine_Bell		1
+4753	Cristiano_da_Matta		1
+4156	Linda_Sanchez		1
+2005	Dieter_Holzer		1
+4169	Lionel_Richie		1	2
+1708	Gerald_Barbarito		1
+1806	Stuart_Knoll		1
+3460	Harold_Scott		1
+1326	Tom_Hanusik		1
+174	Howard_Smith		1	2
+1979	Nicolas_Lapentti		1	2
+4019	Gillian_Anderson		1	2
+199	Kristanna_Loken		1	2	3	4	5
+4889	Carlos_Barra		1
+5341	Alex_King		1
+1721	David_Alpay		1
+3911	Kelly_Leigh		1
+3724	Anders_Fogh_Rasmussen		1	2	3	4
+467	Bill_Paxton		1	2	3	4
+1859	Herbert_Haupt		1
+2281	Julia_Ormond		1
+3254	Art_Howe		1	2	3	4
+1673	George_Voinovich		1	2	3
+3526	Scott_Dalton		1
+4046	Jennifer_Pena		1
+1630	Elvis_Presley		1	2
+1308	Piotr_Anderszewski		1
+2998	Yang_Pao-yu		1
+1702	Francis_Ford_Coppola		1	2
+1416	Fernando_Valenzuela		1
+642	Kajsa_Bergqvist		1
+3462	Harrison_Ford		1	2	3	4	5	6	7	8	9	10	11	12
+2807	Jalen_Rose		1
+211	Brian_Wells		1	2
+59	Manuel_Poggiali		1	2
+4565	Neri_Marcore		1	2
+987	Miguel_Aldana_Ibarra		1
+3962	Jose_Alencar		1
+2766	Qazi_Hussain_Ahmed		1
+2548	Dan_Quayle		1
+4164	Linus_Roache		1
+615	Ann_Landers		1
+2973	Abdullah_Nasseef		1
+3391	Bill_Callahan		1	2	3
+5266	Andy_Hebb		1	2
+5046	Rob_Niedermayer		1
+798	Kevin_Marshall		1
+1047	Janet_Thorpe		1	2
+1298	Duane_Lee_Chapman		1	2
+5602	Jaime_Orti		1
+4832	Colleen_Donovan		1
+5135	Jim_Leach		1
+1711	Dave_McGinnis		1
+1391	Matthew_McConaughey		1
+1938	Jacky_Cheung		1
+1115	Allan_Kemakeza		1
+356	Charlie_Zaa		1	2
+373	Laurence_Tribe		1
+1175	Scott_Peterson		1	2	3	4	5
+575	Rachel_Wheatley		1
+1174	Jim_Jeffords		1
+4674	Melissa_Joan_Hart		1
+3615	Wolfgang_Schuessel		1	2	3	4
+4231	Roberto_Lavagna		1
+5128	James_Hughes		1
+3337	Elizabeth_Smart		1	2	3	4	5
+4814	John_Warner		1	2	3	4
+4139	Michael_McNeely		1
+3148	David_Dewhurst		1
+4150	Linda_Baboolal		1
+5227	Gus_Frerotte		1
+3493	Jeff_Feldman		1
+4479	Mahmoud_Diyab_al-Ahmed		1
+5715	Brian_Florence		1
+3535	Silvio_Berlusconi		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32	33
+4955	Florencia_Kirchner		1
+120	Bak_Chang-Ryun		1
+4539	Christiane_Wulff		1
+4483	Malak_Habbak		1
+239	Sheikh_Ahmed_Yassin		1
+949	Edouard_Michelin		1
+4282	Ilham_Aliev		1
+3727	Andrea_De_Cruz		1
+5338	Alex_Ferguson		1
+3574	Troy_Aikman		1
+3192	Jose_Lopez_Beltran		1
+4872	Leonardo_DiCaprio		1	2	3	4	5	6	7	8	9
+1084	Robert_Marshall		1
+2986	Adam_Kennedy		1
+511	Deepa_Mehta		1
+3622	Xanana_Gusmao		1	2	3	4	5
+4447	Maurice_Strong		1
+4068	John_Engler		1
+3629	Graeme_Smith		1
+4722	Fabricio_Oberto		1
+3033	Sebastien_Grosjean		1	2	3	4
+5218	Joe_Dicaro		1
+5256	Andre_Smith		1
+1953	Victor_Kraatz		1
+3867	Dennis_Miller		1
+5724	Brian_McIntyre		1
+1615	Ellen_Barkin		1
+5136	Jim_Letten		1
+1231	Reggie_Miller		1	2
+393	Takuma_Sato		1
+1714	Dave_Odom		1
+5572	William_McDonough		1
+3665	Don_Nickles		1	2
+1878	Jason_Campbell		1
+895	Laura_Hernandez		1	2
+5571	William_Martin		1	2
+4413	Karen_Clarkson		1
+3486	James_Lockhart		1
+5422	Ray_Nagin		1	2
+4574	Nicholas_Byron		1	2
+3235	Khalid_Khannouchi		1
+4288	Imran_Khan		1
+4997	Richard_Virenque		1	2	3	4	5	6	7	8
+1539	Juan_Francisco_Palencia		1
+1474	Bernard_Landry		1	2	3	4
+1139	Glen_DaSilva		1
+3891	David_Modell		1
+530	Akhmed_Zakayev		1	2	3
+129	Barbara_Roberts		1
+663	Gary_Locke		1	2
+2258	Claire_Tomalin		1
+1236	Reinhard_Buetikofer		1
+1050	Penelope_Cruz		1	2	3
+157	Parris_Glendening		1	2
+4942	Emyr_Jones_Parry		1
+584	Raghad_Saddam_Hussein		1	2
+4455	Max_Mosley		1
+224	Bruce_Arena		1
+3937	Kim_Hong-up		1
+2091	Rolf_Eckrodt		1	2
+1536	Juan_Carlos_Morales		1
+2161	Sally_Field		1	2	3	4
+897	Laura_Marlow		1
+3694	Zhang_Wenkang		1	2
+2686	Ryan_Leaf		1
+5282	Helen_Alvare		1
+744	Lorne_Michaels		1
+1290	Doug_Moe		1
+1300	Dule_Hill		1
+1581	Kent_Rominger		1	2
+917	Eric_Schacht		1
+5454	Ralph_Fiennes		1
+5057	Frank_Hilldrup		1
+491	David_Westerfield		1
+188	Klaus_Zwickel		1	2
+3540	Simon_Larose		1
+4446	Maurice_Papon		1
+869	Ornella_Muti		1
+5105	Eddie_Compass		1
+1686	Dolma_Tsering		1	2
+5307	Luis_Sanchez		1
+342	James_Morris		1	2
+3280	Courtney_Cox		1
+4118	Michael_Friedman		1
+3503	Sandy_Smith		1
+1120	Allison_Searing		1
+5665	Tatiana_Gratcheva		1
+1505	Paul_Coppin		1	2
+2820	James_Coburn		1
+1126	Gina_Torres		1
+3445	Hank_McKinnell		1
+3580	Mitsou_Gelinas		1
+4678	Melvin_Talbert		1
+3312	George_Allen		1
+3956	Joseph_Lopez		1
+2002	Nizar_Trabelsi		1
+3017	Alexander_Lukashenko		1
+3713	Anastasia_Kelesidou		1
+4591	Peter_Greenspun		1
+4846	John_Bolton		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17
+713	Tora_Takagi		1
+954	Eduard_Limonov		1
+4976	Irwan_Fadzi_Idris		1
+1622	Elliott_Mincberg		1
+5091	Dustin_Brown		1
+3217	Derrick_Taylor		1
+5406	Jeff_Dederian		1
+598	Stephen_Swindal		1
+118	Babe_Ruth		1
+3107	Mark_Bellhorn		1
+101	Ashraf_Alasmar		1
+144	Paddy_Torsney		1
+2989	Adam_Sandler		1	2	3	4
+1723	David_Arquette		1
+3815	Martin_McCauley		1	2
+1729	Chuck_Finley		1
+719	Barry_Diller		1
+3044	Sergey_Lavrov		1	2	3	4	5	6	7	8	9	10	11
+830	Bruce_Van_De_Velde		1	2
+4964	Francisco_Maturana		1
+410	Tara_Dawn_Christensen		1
+206	Kristy_Curry		1
+1052	Penny_Dupuie		1
+2799	Jeannette_Biedermann		1
+2724	Paul_Newman		1
+3252	Art_Cooper		1
+486	Nancy_Pelosi		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15
+737	Begum_Khaleda_Zia		1	2
+4950	Filip_De_Winter		1
+3248	Arthur_Johnson		1
+82	Abdullah_Gul		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19
+4728	Farouk_Kaddoumi		1
+5272	Hector_Mitelman		1
+1484	Betsy_Coffin		1
+3448	Hanns_Schumacher		1
+2990	Xiang_Huaicheng		1
+2073	Roger_Etchegaray		1
+2420	Katja_Riemann		1
+3780	Alimzhan_Tokhtakhounov		1	2
+849	David_Oh		1
+5129	James_Ivory		1	2
+2742	Stellan_Skarsgard		1	2
+5068	Frank_Stallone		1	2
+3608	Wim_Duisenberg		1
+5430	GL_Peiris		1	2	3	4
+4306	Nasser_al-Kidwa		1	2
+1588	Ken_Wharfe		1
+3569	Trevor_McDonald		1
+438	Gabriel_Batistuta		1	2
+187	Klaus_Schwab		1
+763	Samantha_Ledster		1
+289	Alvaro_Uribe		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32	33	34	35
+2624	Madonna		1	2	3	4	5
+3689	Zavad_Zarif		1
+2982	Aby_Har-Even		1
+4551	Benjamin_Neulander		1
+6	Aaron_Tippin		1
+4398	Ernie_Els		1	2	3	4
+5713	Brian_Cowen		1	2
+1387	Mathias_Reichhold		1	2	3
+3603	Will_Smith		1	2
+3568	Trent_Lott		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16
+1340	Hashim_Thaci		1	2
+58	Danis_Tanovic		1
+1078	Robert_Hyatt		1
+4031	Brenda_Wilson		1
+820	Dale_Earnhardt_Jr		1	2	3	4
+2811	James_Becker		1
+2110	John_Reid		1	2	3
+1777	Richard_Lugar		1
+319	Jorge_Arce		1	2
+4066	John_Edwards		1	2	3	4	5	6	7	8
+5694	Pedro_Solbes		1	2	3	4
+767	Sammy_Knight		1
+4070	John_Ferguson		1
+1733	Chung_Mong-hun		1	2
+685	Tom_Reilly		1	2	3
+4242	Robert_De_Niro		1	2	3	4	5	6
+1641	Kurt_Tanabe		1
+5299	Luis_Figo		1	2	3	4
+3648	Greg_Ostertag		1	2
+2401	Carlos_Ruiz		1	2	3
+3190	Mary_Lou_Markakis		1
+2735	Scott_OGrady		1
+973	Michel_Charles_Chretien		1
+5527	Tom_Coverdale		1	2
+5729	Brian_Scalabrine		1
+43	Daniel_Coats		1
+937	Hunter_Bates		1
+5595	Jacques_Chirac		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32	33	34	35	36	37	38	39	40	41	42	43	44	45	46	47	48	49	50	51	52
+4535	Choi_Sung-hong		1	2	3	4	5
+2448	Christian_Patino		1
+5250	Hamid_Reza_Asefi		1
+4037	Brett_Perry		1
+2934	Mary_Maddux		1
+1572	Robert_F_Kennedy_Jr		1
+11	Abdel_Nasser_Assidi		1	2
+2670	Michael_Diekmann		1
+681	Gennifer_Flowers		1
+2195	Mireille_Jospin-Dandieu		1
+2709	Chan_Choi		1
+1090	Robert_Nillson		1
+859	David_Stern		1	2	3	4
+4683	Meryl_Streep		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15
+986	Mick_McCarthy		1
+5140	Jim_Parque		1
+1367	Mikhail_Youzhny		1	2	3
+1324	Tom_Glavine		1	2
+383	Lawrence_Di_Rita		1
+4829	Colin_Powell		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32	33	34	35	36	37	38	39	40	41	42	43	44	45	46	47	48	49	50	51	52	53	54	55	56	57	58	59	60	61	62	63	64	65	66	67	68	69	70	71	72	73	74	75	76	77	78	79	80	81	82	83	84	85	86	87	88	89	90	91	92	93	94	95	96	97	98	99	100	101	102	103	104	105	106	107	108	109	110	111	112	113	114	115	116	117	118	119	120	121	122	123	124	125	126	127	128	129	130	131	132	133	134	135	136	137	138	139	140	141	142	143	144	145	146	147	148	149	150	151	152	153	154	155	156	157	158	159	160	161	162	163	164	165	166	167	168	169	170	171	172	173	174	175	176	177	178	179	180	181	182	183	184	185	186	187	188	189	190	191	192	193	194	195	196	197	198	199	200	201	202	203	204	205	206	207	208	209	210	211	212	213	214	215	216	217	218	219	220	221	222	223	224	225	226	227	228	229	230	231	232	233	234	235	236
+2716	Paul_Lockhart		1
+5698	Mario_Austin		1
+4385	Patrick_Eaves		1
+1379	Masahiko_Nagasawa		1	2
+4699	Riccardo_Muti		1
+192	Koichi_Haraguchi		1
+867	Oracene_Williams		1
+4113	Tex_Ritter		1
+2049	Liane_Janda		1
+1937	Jackie_Sherrill		1
+201	Kristen_Rivera		1
+3103	Candice_Beatty		1
+1289	Doug_Melvin		1	2	3
+3852	Demetrius_Ferraciu		1	2
+1352	Heather_Willson		1
+4619	Hilda_Fortune		1
+1541	Juan_Jose_Lucas		1
+3606	Wilson_Alvarez		1
+2365	Omar_Khan_Sharif		1
+774	Sam_Rockwell		1
+117	Azra_Akin		1	2	3	4
+5583	William_Swor		1
+1073	Peter_Fonda		1
+3662	Don_Lake		1
+340	James_Meeks		1
+611	Steven_Tyler		1
+499	Dean_Jacek		1
+4865	Leni_Bjorklund		1
+4923	Charles_Richardson		1
+3859	Deniz_Baykal		1
+3729	Seydou_Diarra		1
+914	Eric_Robert_Rudolph		1	2	3
+4101	Terrence_Trammell		1
+3071	Bob_Wright		1
+1706	Geoffrey_Davis		1
+2577	Guillermo_Canas		1	2	3	4
+3284	Dan_Wheldon		1	2
+5163	Nora_Ephron		1
+1117	Allen_Iverson		1	2
+881	Oswald_Gruebel		1
+3842	Agbani_Darego		1
+5690	Pedro_Mahecha		1
+2770	Queen_Latifah		1	2	3	4
+2704	Chang_Jae_On		1
+2836	Lee_Hoi-chang		1	2	3	4
+2419	Katie_Wagner		1
+2313	Evan_Marriott		1
+3084	Bo_Ryan		1	2
+4842	John_Banko		1	2
+19	Jeff_Roehm		1
+4484	Malcolm_Glazer		1
+5437	Goran_Persson		1	2
+4078	John_Gruden		1
+1658	Lane_Bryant		1
+958	Edward_Belvin		1
+3958	Joseph_Ralston		1	2
+1895	Meg_Mallon		1
+4684	Mesut_Yilmaz		1	2
+4781	Tim_Howard		1
+1357	Mike_Tice		1
+2947	Monica_Serra		1
+5340	Alex_Holmes		1
+4933	Emmanuelle_Beart		1	2	3
+484	Nancy_Humbert		1
+3239	Khum_Bahadur_Khadka		1
+5646	Alberto_Ruiz_Gallardon		1	2
+2217	Stacy_Nelson		1
+2433	Pete_Sampras		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22
+1402	Matt_LeBlanc		1
+3467	Harvey_Fierstein		1
+4341	Jan_Paul_Miller		1
+4533	Chita_Rivera		1	2
+1494	Biljana_Plavsic		1	2	3
+2496	Patrik_Kristiansson		1
+3599	Willis_Roberts		1
+5538	Vagit_Alekperov		1
+3200	Jose_Rosado		1
+83	Adam_Scott		1	2
+4746	Craig_Fitzgibbon		1
+4601	Peter_Mansbridge		1
+3099	Camille_Colvin		1
+1161	Jim_Carrey		1	2	3
+2997	Yang_Jianli		1
+2745	Steve_McManaman		1
+22	Jeff_Weaver		1
+4004	Gerry_Adams		1	2	3	4	5	6	7	8
+1846	Thor_Pedersen		1
+1149	Jimmy_Kimmel		1	2
+1991	Nida_Blanca		1
+5599	Jada_Pinkett_Smith		1	2
+198	Krishna_Bhadur_Mahara		1
+1740	Cindy_Moll		1
+4395	Erin_Runnion		1	2	3	4
+2706	Chang_Sang		1
+1627	Elton_John		1	2	3	4	5	6	7
+2737	Seth_Gorney		1
+220	Brooke_Adams		1
+1805	Strom_Thurmond		1	2	3
+5516	Tommy_Robredo		1	2	3
+1200	Sultan_Qaboos		1
+5625	John_Howard		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19
+3474	Hector_Grullon		1
+5317	Anna_Jones		1
+3833	Adriana_Perez_Navarro		1
+2314	Evan_Rachel_Wood		1	2	3
+4816	John_White		1
+2892	Tina_Sinatra		1
+1048	Janez_Drnovsek		1
+1608	Lloyd_Ward		1	2
+5033	Yukiko_Okudo		1	2
+3531	Scott_Hoch		1
+3276	Chuck_Amato		1	2
+1631	Elvis_Stojko		1
+1202	Sun_Myung_Moon		1
+2763	Pyar_Jung_Thapa		1
+2039	Leslie_Moonves		1	2
+4176	Lisa_Raymond		1	2
+4257	Margaret_Hoelzer		1
+1677	Georgina_Papin		1
+2941	Michele_Placido		1
+2858	Joaquin_Sanchez		1
+5399	Jeffrey_Immelt		1	2
+469	Muhammad_Saeed_al-Sahhaf		1	2	3	4	5
+722	Barry_Nakell		1
+2103	John_Norquist		1
+1121	Allyson_Felix		1	2	3	4	5
+3470	Griffin_Colvin		1
+1000	Martha_Burk		1	2	3	4
+1491	Bijan_Darvish		1	2	3
+266	Michelangelo_Antonioni		1
+2152	Sada_Jacobson		1
+1286	Doug_Christie		1
+2189	Milt_Palacio		1
+1451	Antonio_Banderas		1	2	3	4	5
+1248	Wen_Ho_Lee		1
+2169	Franck_Cerutti		1
+1563	Rainer_Schuettler		1	2	3	4	5
+5634	John_Lithgow		1
+3024	Alexandra_Stevenson		1	2	3
+3572	Tristan_Gretzky		1
+3343	Christopher_Walken		1	2	3	4
+2979	Abid_Hamid_Mahmud_Al-Tikriti		1	2	3
+2554	Rick_Romley		1	2	3
+70	Marcos_Cafu		1
+5482	Brandon_Knight		1
+3447	Hannah_Stockbauer		1	2
+5447	Gore_Vidal		1
+4203	Mike_Maroth		1
+1863	Herb_Ritts		1
+2275	Clemente_de_la_Vega		1
+5161	Norah_Jones		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15
+4073	John_F_Kennedy_Jr		1	2
+335	James_Mathis		1
+4295	Intisar_Ajouri		1	2	3
+5208	Vyacheslav_Fetisov		1
+2783	Jean-Claude_Trichet		1	2
+1170	Jim_Hardin		1
+1935	Jackie_Chan		1	2	3	4	5	6	7	8	9	10	11	12	13
+2536	Dan_Ackroyd		1
+3631	Grant_Hackett		1	2	3	4	5
+2009	Dinah_Turner		1
+121	Barbara_Bach		1
+654	Gary_Carter		1	2	3
+2031	Leo_Ramirez		1
+5217	Joe_DeLamielleure		1
+3265	Bulent_Ecevit		1	2	3	4	5	6
+1322	Tom_Foy		1
+4294	Inocencio_Arias		1	2
+4811	John_Tyson		1
+3244	Kimberly_Bruckner		1
+2466	Wally_Szczerbiak		1
+836	Bryan_Adams		1
+2922	Monica_Lewinsky		1	2	3
+3659	Don_Henley		1
+3792	Randall_Tobias		1
+5547	Yusaku_Miyazato		1
+4554	Ben_Braun		1
+5089	Fred_Swan		1
+5074	Franz_Fischler		1	2	3	4
+2505	Patty_Schnyder		1	2	3	4
+4109	Terry_Stotts		1	2
+4468	Juergen_Trittin		1
+5252	Hamza_Atiya_Muhsen		1
+3518	Sarah_Wynter		1
+1403	Matt_Morris		1
+4925	Charles_Schumer		1	2
+2244	Marie-Josee_Croze		1
+1081	Robert_Korzeniowski		1
+5244	Hal_Sutton		1	2
+3429	Szu_Yu_Chen		1
+2603	Na_Na_Keum		1
+2052	Lili_Marinho		1
+2508	Pat_Cox		1	2
+3455	Han_Sung_Joo		1
+2123	Paulie_Ayala		1
+576	Radovan_Karadzic		1
+3705	Zulfiqar_Ahmed		1
+2660	Michael_Caine		1	2	3	4
+4388	Erika_Christensen		1	2
+3823	Martin_Verkerk		1	2	3
+2222	Stanley_Tong		1	2
+2714	Charles_Bell		1
+1046	Janet_Napolitano		1	2	3	4
+1634	Emelie_Loit		1
+2703	Chang_Dae-whan		1	2
+4851	John_Connolly		1
+4541	Christian_Fittipaldi		1	2
+2352	Oleg_Romantsev		1
+5495	Donald_Carty		1
+5722	Brian_Kerr		1
+2753	Gina_Lollobrigida		1
+2415	Katie_Couric		1
+593	Stephen_Joseph		1
+5187	Pierre_Lacroix		1
+816	Daja_Bedanova		1
+4319	Natalie_Williams		1
+5276	Heidi_Klum		1	2	3	4	5
+4180	Liu_Xiaoqing		1
+4403	Ernie_Preate		1
+2639	Tyrone_Medley		1
+4679	Mel_Brooks		1	2
+2837	Lee_Hong-ki		1
+916	Eric_Ryan_Donnelly		1
+912	Eric_Lindros		1
+3677	Yu_Shyi-kun		1	2	3	4
+4102	Terri_Clark		1
+243	Sheila_Wellstone		1	2
+1665	George_Papandreou		1	2	3	4
+1689	Dunn_Lampton		1
+2931	Marsha_Sharp		1
+1212	Susie_Castillo		1	2
+3341	Eli_Broad		1
+2699	Chakib_Khelil		1	2
+532	Mark_Rosenbaum		1
+57	Daniel_Zelman		1
+1342	Hassan_Nasrallah		1	2
+570	Rachel_Hunter		1	2	3	4
+3419	Ronnie_Jagday		1
+3126	Mark_Mariscal		1
+2114	Pat_Wharton		1
+15	Abdullah_Ahmad_Badawi		1
+391	Takeo_Hiranuma		1
+950	Eduardo_Chillida		1
+3701	Ziwang_Xu		1
+5226	Joe_Lieberman		1	2	3	4	5	6	7	8	9	10	11	12	13
+1197	Suh_Chung-won		1
+2263	Claudette_Robinson		1
+646	Kamel_Morjane		1
+669	Gary_Williams		1	2
+5718	Brian_Griese		1	2
+475	Nabil_Shaath		1	2	3
+2140	Prince_Edward		1	2
+5117	James_Coviello		1
+2594	Nathalie_Baye		1	2	3	4
+5031	Yossi_Beilin		1	2
+678	Gene_Orza		1
+5720	Brian_Henson		1
+48	Daniel_Montenegro		1
+5745	Rudolph_Holton		1
+281	Ed_Smart		1	2	3
+401	Tamara_Stokes		1
+3925	Kenneth_Evans		1	2
+4336	Janine_Pietsch		1
+590	Stephen_Friedman		1	2
+2891	Tina_Pisnik		1
+1103	Robert_Woody_Johnson		1
+3897	Arlen_Specter		1	2	3
+5014	Rick_Husband		1
+97	Annie_Machon		1
+841	Bryce_Carmine		1
+338	James_McMahon		1
+4537	Chok_Tong_Goh		1	2
+913	Eric_Lloyd		1
+5158	Nona_Gaye		1
+4688	Michael_Adams		1
+1506	Paul_Crake		1
+3050	Sergio_Vieira_De_Mello		1	2	3	4	5	6	7	8	9	10	11
+2364	Omar_el-Heib		1
+3162	Keith_Foulke		1
+3049	Sergio_Garcia		1	2
+4490	Manfred_Stolpe		1	2
+1769	Casey_Crowder		1
+5481	Brandon_Jones		1
+5082	Frederique_van_der_Wal		1
+1882	Jason_Kapono		1
+3733	Shafal_Mosed		1
+222	Brooke_Shields		1	2
+5573	William_Morrow		1
+2375	Dianne_Feinstein		1	2	3
+3368	Chris_Penn		1
+2673	Russell_Coutts		1	2
+5582	William_Shatner		1
+2606	Neil_Moritz		1
+231	Shaukat_Aziz		1	2
+630	Junko_Tabei		1
+4234	Roberto_Tovar		1
+2423	Kaye_Young		1
+165	Horace_Donovan_Reid		1
+1314	Porter_Goss		1
+2533	Danny_Green		1
+5205	Vladimir_Voltchkov		1	2
+2653	Vaclav_Klaus		1	2
+4142	Michael_Moore		1	2	3
+3945	King_Abdullah_II		1	2	3	4	5
+2098	John_Moe		1
+1022	James_Wolfensohn		1	2	3	4	5
+5403	Jeffrey_Scott_Postell		1	2
+5385	Jerry_Sexton		1
+4736	Federico_Castelan_Sayre		1
+2574	Guillaume_Cannet		1
+4355	Darrell_Porter		1	2
+4221	Robby_Ginepri		1	2
+2479	Ward_Cuff		1
+4208	Mike_Montgomery		1	2
+1528	Jo_Dee_Messina		1	2
+2434	Petria_Thomas		1	2	3
+2148	Pringe_Ernst_August		1
+2003	Noah_Wyle		1	2	3
+2876	Angela_Merkel		1	2	3	4	5
+3605	Wilma_McNabb		1
+3776	Alicia_Keys		1
+3901	Armand_Sargen		1
+1476	Bernard_Lord		1	2
+5087	Fred_Huff		1
+3040	Sergei_Alexandrovitch_Ordzhonikidze		1
+75	Marco_Irizarry		1
+3541	Simon_Yam		1
+3927	Kenny_Brack		1
+5508	Donna_Morrissey		1
+541	Mark_Warner		1	2
+3457	Harbhajan_Singh		1	2
+2775	Quincy_Jones		1
+4961	Frances_Fisher		1	2
+1210	Susan_Whelan		1
+459	Bill_Lerach		1
+3311	Geoff_Hoon		1	2	3	4	5	6	7
+1389	Matthew_Broderick		1	2	3	4
+618	Antanas_Valionis		1
+3638	Gregory_Geoffroy		1	2
+1955	Vijay_Nambiar		1
+5592	Jacqueline_Gold		1
+2896	TJ_Ford		1
+3357	Chris_Crocker		1
+2888	Tina_Brown		1
+997	Marta_Dominguz		1
+5658	Alejandro_Fernandez		1
+4342	Jan_Petersen		1
+4584	Nick_Rimando		1
+2643	T_Boone_Pickens		1
+364	Chawki_Armali		1
+3045	Serge_Klarsfeld		1
+3988	Elinor_Caplan		1	2
+2357	Oliver_Neuville		1
+407	Tanya_Holyk		1
